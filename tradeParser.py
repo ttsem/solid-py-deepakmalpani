@@ -1,3 +1,5 @@
+from tradeRecord import TradeRecord
+
 class TradeParser:
     LOT_SIZE = 100000.0
 
